@@ -1,0 +1,14 @@
+C:\workspace\Aula do sergão\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.exe
+C:\workspace\Aula do sergão\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.deps.json
+C:\workspace\Aula do sergão\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.runtimeconfig.json
+C:\workspace\Aula do sergão\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.dll
+C:\workspace\Aula do sergão\Projeto01\Projeto01\bin\Debug\net6.0\ref\Projeto01.dll
+C:\workspace\Aula do sergão\Projeto01\Projeto01\bin\Debug\net6.0\Projeto01.pdb
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.AssemblyInfoInputs.cache
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.AssemblyInfo.cs
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.csproj.CoreCompileInputs.cache
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.dll
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\ref\Projeto01.dll
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.pdb
+C:\workspace\Aula do sergão\Projeto01\Projeto01\obj\Debug\net6.0\Projeto01.genruntimeconfig.cache
