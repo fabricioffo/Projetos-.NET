@@ -1,2 +1,2 @@
-# Projetos-em-C-
+# Projetos.cs
 Projeto01: Programa que lê o cadastro de produtos ( código, nome, preço e quantidade ) e gera um arquivo em .TXT
