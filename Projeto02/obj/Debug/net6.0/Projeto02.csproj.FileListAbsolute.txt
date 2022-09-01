@@ -1,0 +1,17 @@
+C:\workspace\Aula do sergão\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.exe
+C:\workspace\Aula do sergão\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.deps.json
+C:\workspace\Aula do sergão\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.runtimeconfig.json
+C:\workspace\Aula do sergão\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.dll
+C:\workspace\Aula do sergão\Projeto02\Projeto02\bin\Debug\net6.0\ref\Projeto02.dll
+C:\workspace\Aula do sergão\Projeto02\Projeto02\bin\Debug\net6.0\Projeto02.pdb
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.csproj.AssemblyReference.cache
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfoInputs.cache
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.AssemblyInfo.cs
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.csproj.CoreCompileInputs.cache
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.dll
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\ref\Projeto02.dll
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.pdb
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.genruntimeconfig.cache
+C:\workspace\Aula do sergão\Projeto02\Projeto02\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\workspace\Aula do sergão\Projeto02\Projeto02\obj\Debug\net6.0\Projeto02.csproj.CopyComplete
